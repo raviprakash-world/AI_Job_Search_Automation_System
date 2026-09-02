@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-206%20passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 An AI-powered job search operating system: Master Profile → job discovery → matching →
 tailored applications → tracking → analytics, with the user in control of every
